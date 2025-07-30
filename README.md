@@ -15,7 +15,7 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
    - Detección y eliminación de duplicados, valores faltantes y montos/cantidades inválidas.
    - Conversión de formatos de fecha, ID y monto.
 
-2. **Análisis Exploratorio en power bi**
+2. **Análisis Exploratorio**
    - Métricas clave: total de ventas, ticket promedio, clientes únicos, productos más vendidos.
    - Tendencia mensual y análisis por país.
 
@@ -24,13 +24,15 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
    - Cálculo de retención mensual.
    - Comparación de retención entre clientes locales (UK) y extranjeros.
 
-4. **Segmentación RFM en python y power bi**
+4. **Segmentación RFM**
    - Cálculo de Recencia, Frecuencia y Monto por cliente.
    - Creación de scores por cuartiles.
    - Clasificación de clientes: “Cliente Ideal”, “Gran Gastador”, “Leal”, “Perdido”, entre otros.
    - Análisis Pareto: el 20% de los clientes genera la mayor parte de los ingresos.
 
-5. **Visualización en Power BI**
+5. **Exportacion de los archivos con los datos limpios y los datos para el rfm que trabajaremos en power bi**
+
+6. **Visualización en Power BI**
    - Creación de dashboards interactivos con KPIs, filtros y vistas por vendedor, país y categoría.
 
 ---
@@ -39,7 +41,7 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
 
 ## 📌 1. Indicadores Generales y Ventas por País
 
-![Indicadores Generales](ruta/a/tu/imagen1.png)
+![Indicadores Generales](imagen1.png)
 
 > Muestra los KPIs clave (ventas totales, clientes, facturas, ticket promedio), junto con la distribución de ventas por país. Se observa una clara concentración en Reino Unido.
 
@@ -47,7 +49,7 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
 
 ## 📅 2. Evolución Mensual de Facturación
 
-![Evolución mensual](ruta/a/tu/imagen2.png)
+![Evolución mensual](imagen2.png)
 
 > Gráficos que muestran cómo varía el monto promedio por factura y la cantidad de facturas mensuales. Útil para detectar estacionalidad y tendencias de crecimiento.
 
@@ -55,7 +57,7 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
 
 ## 🔁 3. Clientes Recurrentes
 
-![Clientes recurrentes](ruta/a/tu/imagen3.png)
+![Clientes recurrentes](imagen3.png)
 
 > Análisis que revela qué porcentaje de clientes volvió a comprar (recompra del 45.58%). Incluye desglose mensual por cliente para identificar patrones de fidelidad.
 
@@ -63,7 +65,7 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
 
 ## 👥 4. Segmentación de Clientes (RFM)
 
-![Segmentación RFM](ruta/a/tu/imagen4.png)
+![Segmentación RFM](imagen4.png)
 
 > Clasificación de clientes según Recencia, Frecuencia y Monto. Permite priorizar campañas y acciones comerciales enfocadas en los segmentos más valiosos.
 
