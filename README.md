@@ -15,25 +15,24 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
    - Detección y eliminación de duplicados, valores faltantes y montos/cantidades inválidas.
    - Conversión de formatos de fecha, ID y monto.
 
-2. **Análisis Exploratorio**
-   - Métricas clave: total de ventas, ticket promedio, clientes únicos, productos más vendidos.
-   - Tendencia mensual y análisis por país.
-
-3. **Análisis de Cohortes en python**
+2. **Análisis de Cohortes en python**
    - Identificación de mes de primera compra.
    - Cálculo de retención mensual.
-   - Comparación de retención entre clientes locales (UK) y extranjeros.
 
-4. **Segmentación RFM**
+3. **Exportacion de los archivos con los datos limpios y los datos para el rfm que trabajaremos en power bi**
+
+4. **Análisis Exploratorio**
+   - Métricas clave: total de ventas, clientes únicos, productos más vendidos.
+   - Tendencia mensual y análisis por país.
+
+5. **Segmentación RFM**
    - Cálculo de Recencia, Frecuencia y Monto por cliente.
    - Creación de scores por cuartiles.
    - Clasificación de clientes: “Cliente Ideal”, “Gran Gastador”, “Leal”, “Perdido”, entre otros.
    - Análisis Pareto: el 20% de los clientes genera la mayor parte de los ingresos.
 
-5. **Exportacion de los archivos con los datos limpios y los datos para el rfm que trabajaremos en power bi**
-
 6. **Visualización en Power BI**
-   - Creación de dashboards interactivos con KPIs, filtros y vistas por vendedor, país y categoría.
+   - Creación de dashboards interactivos con KPIs, filtros y vistas por vendedor, país y categoría como la segmentacion por rfm.
 
 ---
 
@@ -43,7 +42,7 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
 
 ![Indicadores Generales](imagen1.png)
 
-> Muestra los KPIs clave (ventas totales, clientes, facturas, ticket promedio), junto con la distribución de ventas por país. Se observa una clara concentración en Reino Unido.
+> KPIs clave (ventas totales, clientes, facturas), junto con la distribución de ventas por país. 
 
 ---
 
