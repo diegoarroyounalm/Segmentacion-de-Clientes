@@ -1,6 +1,6 @@
 # 📊 Análisis de Clientes y Ventas 
 
-Este proyecto combina **Python** y **Power BI** para analizar las ventas de la empresa mayorista de ropa UK Merch. El objetivo es apoyar decisiones estratégicas basadas en datos mediante limpieza, exploración, retención de clientes y segmentación de comportamiento de compra.
+Este proyecto combina **Python** y **Power BI** para analizar las ventas de la empresa mayorista de ropa . El objetivo es apoyar decisiones estratégicas basadas en datos mediante limpieza, exploración, retención de clientes y segmentación de comportamiento de compra.
 
 ## 🧰 Herramientas Utilizadas
 
