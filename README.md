@@ -71,5 +71,5 @@ Este proyecto combina **Python** y **Power BI** para analizar las ventas de la e
 ## 🚀 Autor
 
 **Diego Arroyo**  
-📧 diegojulioarroyo@email.com  
+📧 diegojulioarroyo@gmail.com  
 🔗 [Mi LinkedIn](https://www.linkedin.com/in/diego-arroyo-b2153b229/) 
